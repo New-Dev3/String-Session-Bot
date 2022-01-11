@@ -16,9 +16,9 @@ from pyrogram.errors import (
 
 API_TEXT = """🙋‍♂ Hi {},
 
-I am a String Session generator bot.
+I am a String Session Generating Bot.
 
-For generating string session send me your `API_ID` 🐿
+For Generating String Session Send Me Your `API_ID` 🐿
 """
 HASH_TEXT = "Ok Now Send your `API_HASH` to Continue.\n\nPress /cancel to Cancel.🐧"
 PHONE_NUMBER_TEXT = (
@@ -232,15 +232,15 @@ __📝 Language:__ [Python3](https://www.python.org/)
 
 __🧰 Framework:__ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-__👨‍💻 Developer:__ [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Ns_AnoNymouS)
+__👨‍💻 Developer:__ [Ƭʜᴇ Wøℓf [ Verified ]](https://t.me/xGamer_s)
 
-__📢 Channel:__ [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+__📢 Channel:__ [Master X Bot's Updates](https://t.me/MXBotZ_INFINITY)
 
-__👥 Group:__ [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+__👥 Group:__ [Best Friends](https://t.me/The_Great_Friends)
 
-__🌐 Source Code:__ [Press Me 😋](https://github.com/Ns-AnoNymouS/string-session-generator-bot)
+__🌐 Source Code:__ [Press Me 😋](https://github.com/New-Dev3/String-Session-Bot)
 
-__🚀 YouTube Channel:__ [Ns Bots](https://youtube.com/channel/UC9NnqJ63aSzv457iUMM06vQ)
+__🚀 YouTube Channel:__ [Tricky Tech](https://youtube.com/channel/UC2Hv19Hrm0LfacjF28oqx7Q)
 """
 
     buttons = [[
