@@ -1,5 +1,5 @@
 {
-  "name": "String session Generator",
+  "name": "String Session Generator",
   "description": "Telegram bot to get the string session for userbots",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "string",
     "generator"
   ],
-  "success_url": "https://telegram.dog/string_session_Nsbot",
-  "website": "https://github.com/Ns-AnoNymouS/string-session-generator-bot",
-  "repository": "https://github.com/Ns-AnoNymouS/string-session-generator-bot",
+  "success_url": "https://telegram.dog/WarZStringSessionBot",
+  "website": "https://github.com/New-Dev3/String-Session-Bot",
+  "repository": "https://github.com/New-Dev3/String-Session-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
