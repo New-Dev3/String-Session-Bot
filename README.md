@@ -25,7 +25,7 @@ Generate Pyrogram String Session Using this bot.
 - [Anonymous](https://github.com/Ns-AnoNymouS)
 
 ### Note:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Very+UseFull+Bot+;Generate+Your+String+Session+From+This+Bot+;You+Can+See+Your+String+From+Your+;Telegram+Saved+Messages;Don't+Share+This+String+Session+To+Anyone;Another+Bytes+Account+Will+Be+Ban+;Happy+Deploying+%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Very+UseFull+Bot+;Generate+Your+String+Session;From+This+Bot;You+Can+See+Your+String+From+Your+;Telegram+Saved+Messages;Don't+Share+This+String+Session;To+Anyone;Another+Bytes+Account+Will+Be+Ban+;Happy+Deploying+%F0%9F%92%96)](https://git.io/typing-svg)
 
 ## Follow on:
 <p align="left">
